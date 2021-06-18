@@ -1,0 +1,2 @@
+- [X] All items are parsed
+- [X] All records are sent to output
